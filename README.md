@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @aidolphin
+- 👀 I’m interested in Fullstack RUST & Javascript
+- 🌱 I’m currently learning Neural Network, AI & ML
+- 💞️ I’m looking to collaborate on Investor
+- 📫 How to reach me : Free Human Friendly Open Source Project
+- ⚡ Fun fact: worlds No! 
