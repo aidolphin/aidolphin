@@ -1,4 +1,3 @@
-
 @aidolphin | Founder & CEO  
 Positive Mind. Infinite Vision. Scalable Logic.
 
