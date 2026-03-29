@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @aidolphin
-- 👀 I’m interested in Fullstack RUST, Python & Javascript
-- 🌱 I’m currently learning Neural Network, AI & ML
-- 💞️ I’m looking to collaborate on Investor
-- 📫 How to reach me : Free Human Friendly Open Source Project
-- ⚡ Fun fact: worlds No! 
+
+@aidolphin | Founder & CEO  
+Positive Mind. Infinite Vision. Scalable Logic.
+
+Founder of Quantum Leaf Automation & UNVR Tech.  
+Full-stack architect (Rust, Python, JavaScript).  
+
+Building AI, Neural Networks, and Human-Friendly Open Source systems.  
+Open to investors and visionary collaborations.  
+
+Philosophy: Say “No” to limits. Build what others won’t.
